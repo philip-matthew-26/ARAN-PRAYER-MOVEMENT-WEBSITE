@@ -1710,9 +1710,6 @@ footer {
     grid-template-columns: 1fr;
     gap: 50px;
   }
-  .about-visual {
-    display: none;
-  }
 
   /* Pastor */
   .pastor-inner {
